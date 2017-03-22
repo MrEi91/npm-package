@@ -1,6 +1,6 @@
 {
   "name": "binary-ei",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Binary search",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darwins-fox-2017/npm-package.git"
+    "url": "git+https://github.com/MrEi91/npm-package"
   },
   "keywords": [
     "binary",
@@ -17,7 +17,7 @@
   "author": "Eri Irawan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darwins-fox-2017/npm-package/issues"
+    "url": "https://github.com/MrEi91/npm-package/issues"
   },
-  "homepage": "https://github.com/darwins-fox-2017/npm-package#readme"
+  "homepage": "https://github.com/MrEi91/npm-package#readme"
 }
